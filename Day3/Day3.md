@@ -51,3 +51,13 @@ Different roles can produce different approaches to the same question.
 ## Claude Usage Counter
 
 Installed and explored the Claude Usage Counter interface.
+
+
+
+## Claude Usage Counter
+
+I installed the Claude Usage Tracker extension and explored its interface.
+
+The extension was opened on the Claude page, but the usage data was not displayed.
+
+The extension showed options such as Debug Logger and Donate.
